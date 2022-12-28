@@ -7,7 +7,7 @@
 #
 # All rights reserved.
 
-HELP_1 = """✅**<u>Admin Commands:</u>**
+HELP_1 = """✅**<u>**💀 Admin Command 💀:</u>**
 
 **c** stands for channel play.
 
@@ -39,7 +39,7 @@ Auth Users can use admin commands without admin rights in your chat.
 /authusers - Check AUTH LIST of the group."""
 
 
-HELP_2 = """✅<u>**Play Commands:**</u>
+HELP_2 = """✅<u>**🎳 Play Commands:**</u>
 
 Available Commands = play , vplay , cplay
 
@@ -64,9 +64,9 @@ ForcePlay Commands = playforce , vplayforce , cplayforce
 
 HELP_3 = """✅<u>**Bot Commands:**</u>
 
-/stats - Get Top 10 Tracks Global Stats, Top 10 Users of bot, Top 10 Chats on bot, Top 10 Played in a chat etc etc.
+/stats - Get Top 10 Tracks Global Stats, Top 10 Users of bot, Top 10 Chats on bot, Top 10 Played in a chat etc etc Bot By @Nati_sam223.
 
-/sudolist - Check Sudo Users of Yukki Music Bot
+/sudolist - Check Sudo Users of Yukki Music Bot join @accounttool.
 
 /lyrics [Music Name] - Searches Lyrics for the particular Music on web.
 
@@ -78,13 +78,13 @@ HELP_3 = """✅<u>**Bot Commands:**</u>
 
 /queue or /cqueue- Check Queue List of Music."""
 
-HELP_4 = """✅<u>**Extra  Commands:**</u>
+HELP_4 = """✅<u>**➡️Extra  Commands➡️:**</u>
 /start - Start the Music Bot.
 /help  - Get Commands Helper Menu with detailed explanations of commands.
 /ping- Ping the Bot and check Ram, Cpu etc stats of Bot.
 
 ✅<u>**Group Settings:**</u>
-/settings - Get a complete group's settings with inline buttons
+/settings - Get a complete group's settings with inline buttons Support @sn_robot_chat
 
 🔗 **Options in Settings:**
 
