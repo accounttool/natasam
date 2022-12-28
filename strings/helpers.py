@@ -7,7 +7,7 @@
 #
 # All rights reserved.
 
-HELP_1 = """✅**<u>**💀 Admin Command 💀:</u>**
+HELP_1 = """✅**<u>**💀Admin Command 💀:</u>**
 
 **c** stands for channel play.
 
